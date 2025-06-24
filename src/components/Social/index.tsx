@@ -10,7 +10,7 @@ export default function Social() {
         <img src={logoCurriculo} alt="" title="Baixar Currículo" />
       </IconSocial>
 
-      <IconSocial href="https://github.com/LSB30" target="_blank">
+      <IconSocial href="https://github.com/w0n7" target="_blank">
         <img src={gitHubLogo} alt="" title="Meu GitHub" />
       </IconSocial>
 
